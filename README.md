@@ -1,5 +1,5 @@
 # Supermarket-Bill-Generator-
 * Name*: Shaik Sabiha
-* Domain*: Full Stack Web Development
+* Domain*: Python Development
 * Duration*: 4 Weeks
 * Mentor *: Chakrapani Putcha
